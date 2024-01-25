@@ -1,0 +1,2 @@
+Kamil;standard;0
+Kamila;pracownik;0,3

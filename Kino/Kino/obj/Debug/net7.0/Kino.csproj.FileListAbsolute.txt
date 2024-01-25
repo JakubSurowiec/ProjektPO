@@ -1,0 +1,14 @@
+F:\vsc projekty\lab3\Kino\Kino\Kino\bin\Debug\net7.0\Kino.exe
+F:\vsc projekty\lab3\Kino\Kino\Kino\bin\Debug\net7.0\Kino.deps.json
+F:\vsc projekty\lab3\Kino\Kino\Kino\bin\Debug\net7.0\Kino.runtimeconfig.json
+F:\vsc projekty\lab3\Kino\Kino\Kino\bin\Debug\net7.0\Kino.dll
+F:\vsc projekty\lab3\Kino\Kino\Kino\bin\Debug\net7.0\Kino.pdb
+F:\vsc projekty\lab3\Kino\Kino\Kino\obj\Debug\net7.0\Kino.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsc projekty\lab3\Kino\Kino\Kino\obj\Debug\net7.0\Kino.AssemblyInfoInputs.cache
+F:\vsc projekty\lab3\Kino\Kino\Kino\obj\Debug\net7.0\Kino.AssemblyInfo.cs
+F:\vsc projekty\lab3\Kino\Kino\Kino\obj\Debug\net7.0\Kino.csproj.CoreCompileInputs.cache
+F:\vsc projekty\lab3\Kino\Kino\Kino\obj\Debug\net7.0\Kino.dll
+F:\vsc projekty\lab3\Kino\Kino\Kino\obj\Debug\net7.0\refint\Kino.dll
+F:\vsc projekty\lab3\Kino\Kino\Kino\obj\Debug\net7.0\Kino.pdb
+F:\vsc projekty\lab3\Kino\Kino\Kino\obj\Debug\net7.0\Kino.genruntimeconfig.cache
+F:\vsc projekty\lab3\Kino\Kino\Kino\obj\Debug\net7.0\ref\Kino.dll
